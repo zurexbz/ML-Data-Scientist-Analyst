@@ -1,6 +1,6 @@
 # ML Data Scientist & Analyst
 
-| **NRP** | **Nama** | 
+| **NRP** | **Name** | 
 | ------------- | --------- |
 | 5025201109 | Mohammad Firman Fardiansyah |
 
